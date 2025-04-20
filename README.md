@@ -19,7 +19,7 @@ A simple Task Management Web App built using **Python Flask**, **SQLAlchemy**, a
 
 - **Backend:** Python, Flask, SQLAlchemy
 - **Database:** MySQL
-- **Frontend:** HTML, CSS (optionally Bootstrap)
+- **Frontend:** HTML, CSS, Sass
 - **Templating Engine:** Jinja2
 
 ---
